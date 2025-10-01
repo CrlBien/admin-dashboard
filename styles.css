@@ -1,7 +1,7 @@
 :root {
   --blue: #2563eb;
   --white: #fff;
-  --font-color: #404040;
+  --font-color: #202020;
   --name-font-size: clamp(1rem, 1.5vw, 2rem);
   --nav-font-size: clamp(0.8rem, 1vw, 1.5rem);
   --nav-icon-size: clamp(1rem, 2vw, 3rem);
